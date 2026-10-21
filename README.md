@@ -42,7 +42,6 @@ python -m pytest tests -v
 ```text
 src/service.py       реализация TokenService
 tests/test_service.py модульные тесты с unittest.mock
-report.md            краткий отчёт по работе
 ```
 
 ## Результат
